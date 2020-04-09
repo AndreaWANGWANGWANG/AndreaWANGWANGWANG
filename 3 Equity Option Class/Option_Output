@@ -1,0 +1,15 @@
+Risk-free Rate: 0.01
+Option Type: C
+Spot Price: 100
+Strike: 100
+Maturity: 10    
+Volatility: 0.5
+Dividend Yield: 0
+Delta: 0.8033962402219443
+Gamma: 0.0017524261405612207
+Vega: 87.62130702806105    
+Theta: -0.006580341622667017
+Option Price: 59.21042236500085
+Implied Volatility(Market Price = 59.2104)
+Bisect: 0.500068359375              
+Newton-Raphson: 0.4999997440566959
